@@ -1,0 +1,17 @@
+{
+  "students": [
+    "seena"
+  ],
+  "attendance": [
+    {
+      "student": "seena",
+      "date": "2026-01-21",
+      "status": "present"
+    },
+    {
+      "student": "seena",
+      "date": "2026-01-28",
+      "status": "absent"
+    }
+  ]
+}
