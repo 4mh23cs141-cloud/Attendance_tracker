@@ -1,8 +1,8 @@
 {
   "students": [
     "seena",
-    "sanjay",
-    "sharath"
+    "sharath",
+    "varun"
   ],
   "attendance": [
     {
@@ -16,14 +16,19 @@
       "status": "absent"
     },
     {
-      "student": "sanjay",
+      "student": "sharath",
       "date": "2026-01-28",
       "status": "present"
     },
     {
-      "student": "sharath",
+      "student": "varun",
       "date": "2026-01-28",
-      "status": "present"
+      "status": "absent"
+    },
+    {
+      "student": "sharath",
+      "date": "2026-01-20",
+      "status": "absent"
     }
   ]
 }
